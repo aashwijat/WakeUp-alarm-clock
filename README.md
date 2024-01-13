@@ -1,6 +1,6 @@
 12/01/2024
 
-ALARM CLOCK PROJECT
+WakeUp - Alarm Clock 
 
 Made with Python and Tkinter using modules - datetime, time, playsound and threading.
 This alarm clock provides users with the basic functionality of setting an alarm and stopping it on play.
