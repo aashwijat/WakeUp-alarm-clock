@@ -14,6 +14,7 @@ https://www.javatpoint.com/digital-clock-using-tkinter-in-python
 https://data-flair.training/blogs/alarm-clock-python/
 https://www.youtube.com/watch?v=no5dz0GOWy8
 
-![image](https://github.com/aashwijat/alarm-clock-app/assets/156063748/0e975073-f58e-4e6d-ba46-8c295cc5095b)
-![image](https://github.com/aashwijat/alarm-clock-app/assets/156063748/7c7a0e46-efef-4759-9451-6ff80121f91a)
+![image](https://github.com/aashwijat/WakeUp-alarm-clock/assets/156063748/e09877e6-2435-46dc-ad3b-79ca645fe193)
+![image](https://github.com/aashwijat/WakeUp-alarm-clock/assets/156063748/87627cf9-d3c0-47b6-aae5-cf2f4a60b199)
+
 
