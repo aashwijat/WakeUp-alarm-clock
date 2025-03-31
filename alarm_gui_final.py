@@ -8,7 +8,7 @@ import threading
 root = tk.Tk()
 root.geometry("400x350")
 root.config(bg="#2d174f")
-root.title("alarm clock")
+root.title("WakeUp")
 
 
 def Threading():
